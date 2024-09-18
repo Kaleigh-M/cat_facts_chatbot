@@ -1,4 +1,4 @@
-### Cat Facts Bot
+## Cat Facts Bot
 
 This project is a simple chatbot built using Python's `Tkinter` library for the GUI, which provides random cat facts on request. It listens to user input, responds with a cat fact when requested.
 ## Features
